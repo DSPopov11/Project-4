@@ -10,7 +10,7 @@
 -Собрать коллекцию в Postman под запрос телеканала.
 
 Решение:
--Диграмма компонентов https://disk.yandex.ru/d/QXy5zi2rttFbTQ
+-Диграмма компонентов https://disk.yandex.ru/d/N4SCAGI0N9yaQA
 
 -Разработка API «Метрики телеканала» https://disk.yandex.ru/i/YJFMdjbP_1N-0w
 
